@@ -1,0 +1,1772 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+/* HEADER */
+/* header{
+position: absolute;
+width: 1280px;
+height: 650px;
+left: 0px;
+top: 0px;
+} */
+
+/* NAV */
+
+
+nav {
+    position: absolute;
+    width: 1200px;
+    height: 100px;
+    left: 35px;
+    top: 4px;
+
+
+    background: #FFFFFF;
+}
+
+/* .bar{
+    position: absolute;
+    width: 1200px;
+    height: 100px;
+    left: 40px;
+    top: 4px;
+} */
+.line {
+    position: absolute;
+    width: 57.6px;
+    height: 0px;
+    left: 12px;
+    top: 74px;
+
+    border: 2px solid #FFECEC;
+
+}
+
+.grupo {
+    position: absolute;
+    width: 887px;
+    height: 29px;
+    left: 345px;
+    top: 39px;
+}
+
+/* GRUPO1 */
+.login {
+    position: absolute;
+    width: 65px;
+    height: 29px;
+    left: 788px;
+    top: 1px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+.trabalhe-c {
+    position: absolute;
+    width: 187.21px;
+    height: 24px;
+    left: 555px;
+    top: 1px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.disciplinas {
+    position: absolute;
+    width: 111.89px;
+    height: 24px;
+    left: 380px;
+    top: 1px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.trabalho {
+    position: absolute;
+    width: 104.13px;
+    height: 24px;
+    left: 215px;
+    top: 1px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.clientes {
+    position: absolute;
+    width: 85.3px;
+    height: 24px;
+    left: 70px;
+    top: 1px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.sobre {
+    position: absolute;
+    width: 62.04px;
+    height: 24px;
+    /* left: 0%; */
+    top: 1px;
+    right: 900px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.cj-text {
+    position: absolute;
+    width: 62.38px;
+    height: 48px;
+    left: 15px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #FFFFFF;
+}
+
+.cj {
+    position: absolute;
+    width: 82px;
+    height: 100px;
+    right: 1118.3px;
+
+    bottom: 0px;
+
+    background: #353CF3;
+}
+
+.entrar img {
+    box-sizing: border-box;
+
+    position: absolute;
+    left: 1075px;
+    right: 14.53%;
+    top: 115px;
+    bottom: 95.32%;
+
+
+}
+
+.entrar p {
+    position: absolute;
+    width: 136px;
+    height: 19px;
+    left: 1100px;
+    top: 119px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+}
+
+.curriculo p {
+
+    position: absolute;
+    width: 167px;
+    height: 19px;
+    left: 865px;
+    top: 119px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #FFFFFF;
+
+}
+
+.curriculo img {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    left: 840px;
+    top: 120px;
+}
+
+/* HERO */
+.candidatar {
+
+    position: absolute;
+    width: 387px;
+    height: 373px;
+    left: 853px;
+    top: 201px;
+
+    position: absolute;
+    width: 148px;
+    height: 37px;
+    left: 1074px;
+    top: 513px;
+
+    background-color: #353CF3;
+
+}
+
+.candidatar p {
+    position: absolute;
+    width: 107px;
+    height: 21px;
+    left: 34px;
+    top: 7px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+}
+
+.vaga p {
+    position: absolute;
+    width: 102px;
+    height: 21px;
+    left: 28px;
+    top: 7px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.vaga {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 148px;
+    height: 37px;
+    left: 871px;
+    top: 513px;
+
+    border: 1px solid #000000;
+
+}
+
+.fundo {
+    position: absolute;
+    width: 1280px;
+    height: 650px;
+    left: 0px;
+    top: 0px;
+}
+
+.card {
+    position: absolute;
+    width: 387px;
+    height: 373px;
+    left: 853px;
+    top: 201px;
+
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+
+.card2 {
+    position: absolute;
+    width: 387px;
+    height: 373px;
+    left: 447px;
+    top: 1422px;
+
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+
+.card3 {
+    position: absolute;
+    width: 387px;
+    height: 373px;
+    left: 854px;
+    top: 1422px;
+
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+
+.titulo-card {
+    position: absolute;
+    width: 353px;
+    height: 53px;
+    left: 20px;
+    top: 21px;
+
+}
+
+.tecnologia {
+    width: 87px;
+    height: 21px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+    /* identical to box height, or 21px */
+
+    letter-spacing: 0.085em;
+
+    color: #353CF3;
+}
+
+.titulo-card img {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 236px;
+
+    position: absolute;
+    width: 353px;
+    height: 21px;
+    left: 140px;
+    top: 1px;
+}
+
+.desenvolvedor {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.empresa {
+    position: absolute;
+    width: 224px;
+    height: 21px;
+    left: 875px;
+    top: 279px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.descricao {
+    position: absolute;
+    width: 362px;
+    height: 189px;
+    left: 875px;
+    top: 309px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+
+    letter-spacing: 0.085em;
+
+    color: #000000;
+}
+
+.titulo1 {
+    position: absolute;
+    width: 387px;
+    height: 192.69px;
+    left: 40px;
+    top: 193px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+
+    letter-spacing: 0.085em;
+
+    color: #FFFFFF;
+}
+
+.lorem {
+    position: absolute;
+    width: 387px;
+    height: 173px;
+    left: 40px;
+    top: 399.74px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    letter-spacing: 0.085em;
+
+    color: #FFFFFF;
+}
+
+.quant-vg {
+    position: absolute;
+    width: 285px;
+    height: 67.02px;
+    left: 447px;
+    top: 506.98px;
+
+    background: #353CF3;
+}
+
+.bot {
+    position: absolute;
+    width: 212px;
+    height: 34.97px;
+    left: 53px;
+    top: 23px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+
+.name {
+    position: absolute;
+    width: 146px;
+    height: 34.97px;
+    left: 15px;
+    top: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+
+.nome {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 386px;
+    height: 52.45px;
+    left: 447px;
+    top: 201px;
+
+    border-bottom: 2px solid #FFFFFF;
+}
+
+.seu-es {
+    position: absolute;
+    width: 158px;
+    height: 34.97px;
+    left: 15px;
+    top: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+}
+
+.estado {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 386px;
+    height: 52.45px;
+    left: 447px;
+    top: 302.99px;
+
+    border-bottom: 2px solid #FFFFFF;
+}
+
+.formacao {
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 386px;
+    height: 52.45px;
+    left: 447px;
+    top: 404.98px;
+
+    border-bottom: 2px solid #FFFFFF;
+}
+
+.sua-form {
+    position: absolute;
+    width: 181px;
+    height: 34.97px;
+    left: 15px;
+    top: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #FFFFFF;
+
+}
+
+/* FIM DA HEADER */
+
+/* INÍCIO DA MAIN */
+.f1 {
+    position: absolute;
+    width: 589px;
+    height: 636px;
+    left: 650px;
+    top: 680px;
+}
+
+.titulo-sec {
+    position: absolute;
+    width: 590px;
+    height: 288px;
+    left: 40px;
+    top: 680px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 48px;
+
+    letter-spacing: 0.085em;
+
+    color: #000000;
+
+}
+
+.subtitulo {
+    position: absolute;
+    width: 600px;
+    height: 72px;
+    left: 40px;
+    top: 998px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+
+    letter-spacing: 0.085em;
+
+    color: #000000;
+
+}
+
+.expli {
+    position: absolute;
+    width: 600px;
+    height: 216px;
+    left: 40px;
+    top: 1100px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+
+    letter-spacing: 0.085em;
+
+    color: #000000;
+}
+
+.encon-trab {
+    position: absolute;
+    width: 292px;
+    height: 36px;
+    left: 40px;
+    top: 1366px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #000000;
+}
+
+.btn-candi {
+    position: absolute;
+    width: 148px;
+    height: 37px;
+    left: 259px;
+    top: 1734px;
+
+    background: #353CF3;
+}
+
+.btn-candi p {
+    position: absolute;
+    width: 107px;
+    height: 21px;
+    left: 30px;
+    top: 7px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+}
+
+.btn-prox {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 148px;
+    height: 37px;
+    left: 58px;
+    top: 1734px;
+
+    border: 1px solid #000000;
+}
+
+.btn-prox p {
+    position: absolute;
+    width: 102px;
+    height: 21px;
+    left: 30px;
+    top: 7px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.ttl {
+    position: absolute;
+    width: 387px;
+    height: 373px;
+    left: 40px;
+    top: 1422px;
+
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+
+.descri {
+    position: absolute;
+    width: 362px;
+    height: 189px;
+    left: 15px;
+    top: 110px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    letter-spacing: 0.085em;
+
+    color: #000000;
+}
+
+.empre {
+    position: absolute;
+    width: 224px;
+    height: 21px;
+    left: 12px;
+    top: 78px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+
+
+    letter-spacing: 0.085em;
+
+    color: #000000;
+}
+
+.desen {
+    position: absolute;
+    width: 227px;
+    height: 24px;
+    left: 12px;
+    top: 38px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.emps {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    gap: 236px;
+
+    position: absolute;
+    width: 353px;
+    height: 21px;
+    left: 12.9px;
+    top: 10px;
+
+    width: 87px;
+    height: 21px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+
+    letter-spacing: 0.085em;
+
+    color: #353CF3;
+}
+
+.card-ttl img {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    gap: 236px;
+
+    position: absolute;
+    width: 30px;
+    height: 15px;
+    left: 335px;
+    top: 13px;
+
+    /* width: 87px;
+    height: 21px; */
+}
+
+/* CARD2 */
+.btn-can2 {
+    position: absolute;
+    width: 148px;
+    height: 37px;
+    left: 215px;
+    top: 313px;
+
+    background: #353CF3;
+
+}
+
+.btn-can2 p {
+    position: absolute;
+    width: 107px;
+    height: 21px;
+    left: 30px;
+    top: 7px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+}
+
+.btn-prox2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 148px;
+    height: 37px;
+    left: 20px;
+    top: 313px;
+
+    border: 1px solid #000000;
+}
+
+.btn-prox2 p {
+    position: absolute;
+    width: 102px;
+    height: 21px;
+    left: 30px;
+    top: 7px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.tec {
+    position: absolute;
+    width: 353px;
+    height: 53px;
+    left: 14px;
+    top: 8px;
+
+    width: 87px;
+    height: 21px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #353CF3;
+}
+
+.t-c img {
+    position: absolute;
+    width: 353px;
+    height: 53px;
+    left: 334px;
+    top: 13px;
+
+    width: 30px;
+    height: 15px;
+}
+
+.dfront {
+    position: absolute;
+    width: 227px;
+    height: 24px;
+    left: 14px;
+    top: 37px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.descri2 {
+    position: absolute;
+    width: 362px;
+    height: 189px;
+    left: 14px;
+    top: 110px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    /* or 21px */
+
+    letter-spacing: 0.085em;
+
+    color: #000000;
+
+}
+
+.emp2 {
+    position: absolute;
+    width: 224px;
+    height: 21px;
+    left: 14px;
+    top: 77px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+/* FIM DO SEGUNDO CARD */
+/* 3/ card */
+.btn-cand3 p {
+    position: absolute;
+    width: 107px;
+    height: 21px;
+    left: 30px;
+    top: 7px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+}
+
+.btn-cand3 {
+    position: absolute;
+    width: 148px;
+    height: 37px;
+    left: 214px;
+    top: 313px;
+
+    background: #353CF3;
+}
+
+.prox-vg3 {
+    box-sizing: border-box;
+
+    border: 1px solid #000000;
+
+    position: absolute;
+    width: 148px;
+    height: 37px;
+    left: 22px;
+    top: 313px;
+}
+
+.prox-vg3 p {
+    position: absolute;
+    width: 102px;
+    height: 21px;
+    left: 25px;
+    top: 7px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.tec3 {
+    position: absolute;
+    width: 353px;
+    height: 53px;
+    left: 10px;
+    top: 8px;
+
+    width: 87px;
+    height: 21px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 150%;
+
+    letter-spacing: 0.085em;
+
+    color: #353CF3;
+}
+
+.tll-card3 img {
+    position: absolute;
+    left: 340px;
+    top: 13px;
+    width: 30px;
+    height: 15px;
+
+}
+
+.dfront3 {
+    position: absolute;
+    width: 227px;
+    height: 24px;
+    left: 12px;
+    top: 33px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.descri3 {
+
+    position: absolute;
+    width: 362px;
+    height: 189px;
+    left: 14px;
+    top: 110px;
+
+    letter-spacing: 0.085em;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.empre3 {
+    position: absolute;
+    width: 224px;
+    height: 21px;
+    left: 14px;
+    top: 76px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+/* BOTÕES */
+.b-vaga {
+    position: absolute;
+    width: 183px;
+    height: 37px;
+    left: 141px;
+    top: 1828px;
+
+    background: #353CF3;
+}
+
+.b-vaga p {
+
+    position: absolute;
+    width: 150px;
+    height: 21px;
+    left: 25px;
+    top: 10px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+
+    color: #FFFFFF;
+}
+
+.direita {
+    position: absolute;
+    width: 81px;
+    height: 37px;
+    left: 1057px;
+    top: 1830px;
+
+    background: #353CF3;
+}
+
+.direita img {
+    position: absolute;
+    left: 25.5px;
+    right: 13.05%;
+    top: 10px;
+    bottom: 39.27%;
+}
+
+.esquerda {
+    position: absolute;
+    width: 82px;
+    height: 37px;
+    left: 955px;
+    top: 1830px;
+
+    background: #FFFFFF;
+}
+
+.esquerda img {
+    position: absolute;
+    left: 25.5px;
+    right: 18.67%;
+    top: 14px;
+    bottom: 38.78%;
+
+    transform: rotate(-3600deg);
+}
+
+/* fim da 2° section */
+
+/* 3°SECTION */
+/* LINHA 1 */
+.ttl-sec3 {
+    position: absolute;
+    width: 1193px;
+    height: 59px;
+    left: 40px;
+    top: 1907px;
+
+    background: #FFFFFF;
+}
+
+.ttl-sec3 p {
+    position: absolute;
+    width: 500px;
+    height: 36px;
+    left: 40px;
+    top: 16px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #000000;
+}
+
+.p1 {
+    position: absolute;
+    width: 583px;
+    height: 373px;
+    left: 650px;
+    top: 1996px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    letter-spacing: 0.085em;
+
+    color: #000000;
+}
+
+.l2-cd2 {
+    position: absolute;
+    width: 284px;
+    height: 373px;
+    left: 345px;
+    top: 1996px;
+
+    background: #FFFFFF;
+}
+
+.comeco p {
+    position: absolute;
+    width: 47px;
+    height: 30px;
+    left: 12px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    letter-spacing: 0.085em;
+
+    color: #000000;
+}
+
+.comeco img {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 81px;
+    height: 81px;
+    left: 97px;
+    top: 155px;
+}
+
+.f-cd2 p {
+    position: absolute;
+    width: 168px;
+    height: 30px;
+    left: 10px;
+    top: 340px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+.st-1 {
+    position: absolute;
+    width: 81px;
+    height: 37px;
+    left: 203px;
+    top: 336px;
+
+    background: #353CF3;
+
+}
+
+.st-1 img {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 26px;
+    top: 3px;
+
+}
+
+/* CARD 1 */
+.l1-c1 {
+    position: absolute;
+    width: 284px;
+    height: 373px;
+    left: 40px;
+    top: 1996px;
+
+    background: #FFFFFF;
+}
+
+.tll-c1 {
+
+    position: absolute;
+    width: 47px;
+    height: 30px;
+    left: 12px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    letter-spacing: 0.085em;
+
+    color: #000000;
+}
+
+.segundo img {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 81px;
+    height: 81px;
+    left: 97px;
+    top: 155px;
+}
+
+.f-cd1 p {
+    position: absolute;
+    width: 169px;
+    height: 30px;
+    left: 10px;
+    top: 340px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+.st-2 {
+    position: absolute;
+    width: 81px;
+    height: 37px;
+    left: 203px;
+    top: 336px;
+
+    background: #353CF3;
+}
+
+.st-2 img {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 26px;
+    top: 3px;
+
+}
+
+/* FIM DA LINHA 1 */
+
+/* LINHA 2 */
+.card-6 {
+    position: absolute;
+    width: 284px;
+    height: 373px;
+    left: 955px;
+    top: 2396px;
+
+    background: #FFFFFF;
+}
+
+.ttl-6 {
+    position: absolute;
+    width: 229px;
+    height: 30px;
+    left: 16px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+.terceiro img {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 81px;
+    height: 81px;
+    left: 97px;
+    top: 155px;
+}
+
+.f-cd3 {
+    position: absolute;
+    width: 169px;
+    height: 30px;
+    left: 10px;
+    top: 340px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #000;
+}
+
+.seta3 {
+    position: absolute;
+    width: 81px;
+    height: 39px;
+    left: 193px;
+    top: 0px;
+
+
+    background: #353CF3
+}
+
+.seta3 img {
+    position: absolute;
+    left: 25px;
+    right: 6.24%;
+    top: 21.87%;
+    bottom: 21.87%;
+
+}
+
+/* CARD 5 */
+.card-5 {
+    position: absolute;
+    width: 284px;
+    height: 373px;
+    left: 650px;
+    top: 2396px;
+
+    background: #FFFFFF;
+}
+
+.quinto img {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 81px;
+    height: 81px;
+    left: 97px;
+    top: 155px;
+}
+
+.tll-5 {
+    position: absolute;
+    width: 229px;
+    height: 30px;
+    left: 16px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px
+ 
+
+}
+
+.f-cd5 {
+    position: absolute;
+    width: 169px;
+    height: 30px;
+    left: 10px;
+    top: 340px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #000;
+}
+
+.seta5 {
+    position: absolute;
+    width: 81px;
+    height: 37px;
+    left: 193px;
+    top: 0px;
+
+    background: #353CF3;
+}
+.seta5 img{
+    position: absolute;
+    left: 25px;
+    right: 6.24%;
+    top: 21.87%;
+    bottom: 21.87%;
+}
+/* CARD 4 */
+.card4{
+    position: absolute;
+width: 284px;
+height: 373px;
+left: 346px;
+top: 2397px;
+
+background: #FFFFFF;
+}
+.quarto img{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 81px;
+    height: 81px;
+    left: 97px;
+    top: 155px;  
+}
+.tll-4{
+    position: absolute;
+    width: 229px;
+    height: 30px;
+    left: 16px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #000000;
+}
+.f-cd4 p{
+    position: absolute;
+    width: 169px;
+    height: 30px;
+    left: 10px;
+    top: 340px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #000;
+}
+.seta4{
+    position: absolute;
+width: 81px;
+height: 37px;
+left: 204px;
+top: 336px;
+
+background: #353CF3;
+}
+.seta4 img{
+    position: absolute;
+    left: 25px;
+    right: 6.24%;
+    top: 21.87%;
+    bottom: 21.87%;  
+}
+
+/* CARD3 */
+.card-03{
+position: absolute;
+width: 284px;
+height: 373px;
+left: 39px;
+top: 2397px;
+
+background: #FFFFFF;
+}
+.tll3{
+    position: absolute;
+    width: 229px;
+    height: 30px;
+    left: 16px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    color: #000000; 
+}
+
+.terceiro img{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 81px;
+    height: 81px;
+    left: 97px;
+    top: 155px;  
+}
+.ana{
+    position: absolute;
+width: 173px;
+height: 30px;
+left: 3px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #000000;
+}
+.sets3{
+    position: absolute;
+    width: 81px;
+    height: 37px;
+    left: 193px;
+    top: 0px;
+   
+    background:#353CF3;
+}
+.sets3 img{
+    position: absolute;
+    left: 25px;
+    right: 6.24%;
+    top: 21.87%;
+    bottom: 21.87%;  
+}
+/* FIM DO TERCEIRO CARD */
+/* FIM DA TERCEIRA SECTION */
+/* FIM DA MAIN */
+
+/* INÍCIO DA FOOTER PRINCIPAL */
+
+.logo-cj{
+position: absolute;
+width: 83px;
+height: 100px;
+left: 39px;
+top: 2px;
+
+background: #353CF3;
+}
+.logo-cj p{
+    position: absolute;
+width: 53.08px;
+height: 48px;
+left: 15px;
+top: 34px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 48px;
+
+color: #FFFFFF;
+}
+.line p{
+position: absolute;
+width: 53.08px;
+height: 48px;
+left: 15px;
+top: 0px;
+}
+/* TEXTOS */
+.f
+.texto{
+position: absolute;
+width: 997.3px;
+height: 146px;
+left: 243px;
+top: 2847px;
+
+}
+
+
+.t4{
+position: absolute;
+width: 166.3px;
+height: 140px;
+left: 1080px;
+top: 41px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+}
+.t3{
+    position: absolute;
+width: 181px;
+height: 140px;
+left: 795px;
+top: 41px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+.t2{
+    position: absolute;
+width: 181px;
+height: 140px;
+left: 510px;
+top: 41px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+}
+.t1{
+position: absolute;
+width: 166.3px;
+height: 140px;
+left: 245px;
+top: 41px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+.direitos p{
+    position: absolute;
+width: 315px;
+height: 24px;
+left: 482px;
+top: 196px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+
+color: #000000;
+
+}
+.f-principal{
+position: absolute;
+width: 1280px;
+height: 233px;
+left: 0px;
+top: 2822px;
+
+background: #FFFFFF;
+}
