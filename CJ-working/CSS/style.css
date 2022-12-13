@@ -38,14 +38,14 @@ nav {
     left: 40px;
     top: 4px;
 } */
-.line {
+.line hr{
     position: absolute;
     width: 57.6px;
     height: 0px;
     left: 12px;
     top: 74px;
 
-    border: 2px solid #FFECEC;
+    
 
 }
 
